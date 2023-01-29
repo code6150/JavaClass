@@ -33,4 +33,5 @@ public class A<T> {
 	// ArrayList, LinkedList
 	List<Double> list = new ArrayList();
 	
+	
 }
