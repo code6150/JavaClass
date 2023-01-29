@@ -31,6 +31,5 @@ public class A<T> {
 	
 	int[] arr = new int[10];
 	// ArrayList, LinkedList
-	List<Double> list = new ArrayList();
 	
 }

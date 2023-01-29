@@ -25,4 +25,5 @@ public class B<T> extends A{
 		System.out.println("B:" + data);
 	}
 	
+	
 }

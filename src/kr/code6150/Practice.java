@@ -32,6 +32,7 @@ public class Practice {
 		 * 
 		 * s1.name = "";
 		 */
+	
 		
 		Student s1 = new Student("ȫ�浿", 15);
 		Student s2 = new Student("ȫ�浿", 15, "01012345678");
